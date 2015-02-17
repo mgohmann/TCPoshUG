@@ -1,0 +1,1 @@
+This is an example DSC resource generated live during the presentation.
